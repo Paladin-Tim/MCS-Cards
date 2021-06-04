@@ -1,0 +1,203 @@
+body {
+  background: #3420a3;
+}
+
+/* --- Grid wrapper ---*/
+
+.l-wrapper {
+  padding: 2rem 6rem;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+/* --- Block header styles ---*/
+
+.c-block__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+/* --- Grid styles ---*/
+
+.l-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  justify-items: stretch;
+  margin: 2rem auto 4rem;
+  position: relative;
+}
+
+@media (max-width: 1024px) {
+  .c-wrapper {
+    padding: 2rem 3rem;
+  }
+  .l-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .c-wrapper {
+    padding: 2rem 2rem;
+  }
+  .l-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* --- General Card styles ---*/
+
+.c-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #5540cc;
+  padding: 2rem;
+  overflow: hidden;
+  min-height: 350px;
+  transition: background-color 0.8s ease, box-shadow 0.8s ease,
+    border-color 0.8s ease;
+}
+
+.c-card__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.c-card__title {
+  width: 70%;
+  margin-top: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.c-card__icon {
+  height: 2rem;
+}
+
+.c-card__body {
+  color: #b0a3fd;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  transition: color 1s ease;
+}
+
+.c-card__space {
+  flex: 1;
+}
+
+.c-card__footer {
+  position: relative;
+}
+
+.c-card__img {
+  min-height: 250px;
+  max-height: 250px;
+  min-width: 220px;
+  position: absolute;
+  left: 58%;
+  bottom: -6rem;
+  z-index: -1;
+  transition: opacity 0.8s ease, z-index 0.8s ease, transform 0.8s ease;
+}
+
+.c-card__img.h-hover__on {
+  opacity: 0;
+}
+
+.c-card__btn {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font: bold 17px "Roboto", sans-serif;
+  line-height: 25px;
+  cursor: pointer;
+  z-index: 2;
+  position: relative;
+}
+
+/* --- ML Card styles --- */
+
+.ml .c-card__btn {
+  color: #998aef;
+  cursor: default;
+}
+
+/* --- MCS Card styles --- */
+
+.mcs .c-card__header {
+  margin-bottom: 20px;
+}
+
+.mcs .c-card__title {
+  display: none;
+}
+
+.mcs .c-card__icon {
+  height: 100%;
+}
+
+.mcs .c-card__btn {
+  width: 150px;
+  height: 40px;
+  background: #ff2a7a;
+  border: 2px solid #ff2a7a;
+  border-radius: 0 15px 0 15px;
+}
+
+/* --- Footer styles --- */
+
+.c-block__footer {
+  align-self: center;
+  align-items: center;
+}
+
+.c-footer__action,
+.c-footer__more {
+  padding: 15px 30px;
+  color: #fff;
+  border: none;
+  font: bold 17px "Roboto", sans-serif;
+  cursor: pointer;
+}
+
+.c-footer__action {
+  border-radius: 0 0 0 15px;
+  background: #ff2a7a;
+}
+
+.c-footer__more {
+  border-radius: 0 15px 0 0;
+  background: #4633b3;
+}
+
+/* --- Hover effects --- */
+
+.c-card:hover {
+  background-color: #4633b3;
+  box-shadow: 0px 16px 40px rgba(0, 0, 0, 0.157694);
+  border-color: rgba(85, 64, 204, 0);
+}
+
+.c-card:hover .c-card__body {
+  color: #fff;
+}
+
+.c-card:hover .c-card__img.h-hover__off {
+  opacity: 0;
+}
+
+.c-card:hover .c-card__img.h-hover__on {
+  opacity: 1;
+  z-index: 1;
+  transform: translateY(-20px);
+}

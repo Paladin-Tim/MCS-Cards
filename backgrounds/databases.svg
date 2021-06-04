@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 411" style="enable-background:new 0 0 245 411;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#4A31CF;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#1E0C7F;}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:url(#SVGID_4_);}
+	.st5{fill:#AD9EFF;}
+	.st6{fill:#BD48F4;stroke:#BD48F4;stroke-linejoin:round;stroke-miterlimit:1.41;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#8F33BB;}
+	.st8{fill:#C241FF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st10{fill:#67E4CF;}
+	.st11{fill:#E338AA;}
+	.st12{fill:url(#SVGID_5_);}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-71" width="386" height="436"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<path class="st1" d="M72.6,282.3c15-4,31.8-6.2,49.4-6.2s34.4,2.2,49.4,6.2H237v56h0c0,0.5,0,1,0,1.5c0,35.1-51.5,63.7-115,63.7
+			C58.5,403.5,7,375,7,339.8c0-0.5,0-1,0-1.5h0v-56H72.6z"/>
+		<path class="st2" d="M129.4,360.4c0-4.3-3.5-7.8-7.8-7.8c-4.3,0-7.8,3.5-7.8,7.8v27.3c0,4.3,3.5,7.8,7.8,7.8
+			c4.3,0,7.8-3.5,7.8-7.8V360.4z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-126.2565" y1="468.7566" x2="-126.2565" y2="467.7266" gradientTransform="matrix(230.026 0 0 -127.364 29164.2891 59919.8477)">
+			<stop  offset="0" style="stop-color:#3F24CF"/>
+			<stop  offset="1" style="stop-color:#10054A"/>
+		</linearGradient>
+		<ellipse vector-effect="non-scaling-stroke" class="st3" cx="122" cy="280.8" rx="115" ry="63.7"/>
+		<path class="st1" d="M72.6,217.3c15-4,31.8-6.2,49.4-6.2s34.4,2.2,49.4,6.2H237v56h0c0,0.5,0,1,0,1.5c0,35.1-51.5,63.7-115,63.7
+			C58.5,338.5,7,310,7,274.8c0-0.5,0-1,0-1.5h0v-56L72.6,217.3L72.6,217.3z"/>
+		<path class="st2" d="M129.4,296.4c0-4.3-3.5-7.8-7.8-7.8c-4.3,0-7.8,3.5-7.8,7.8v27.3c0,4.3,3.5,7.8,7.8,7.8
+			c4.3,0,7.8-3.5,7.8-7.8V296.4z"/>
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-126.2565" y1="468.7566" x2="-126.2565" y2="467.7266" gradientTransform="matrix(230.026 0 0 -127.364 29164.2891 59854.8477)">
+			<stop  offset="0" style="stop-color:#3F24CF"/>
+			<stop  offset="1" style="stop-color:#10054A"/>
+		</linearGradient>
+		<ellipse vector-effect="non-scaling-stroke" class="st4" cx="122" cy="215.8" rx="115" ry="63.7"/>
+		<path class="st1" d="M72.6,152.3c15-4,31.8-6.2,49.4-6.2s34.4,2.2,49.4,6.2H237v56h0c0,0.5,0,1,0,1.5c0,35.1-51.5,63.7-115,63.7
+			C58.5,273.5,7,245,7,209.8c0-0.5,0-1,0-1.5h0v-56L72.6,152.3L72.6,152.3z"/>
+		<path class="st2" d="M129.4,232.4c0-4.3-3.5-7.8-7.8-7.8c-4.3,0-7.8,3.5-7.8,7.8v27.3c0,4.3,3.5,7.8,7.8,7.8
+			c4.3,0,7.8-3.5,7.8-7.8V232.4L129.4,232.4z"/>
+		<ellipse vector-effect="non-scaling-stroke" class="st5" cx="122" cy="150.8" rx="115" ry="63.7"/>
+		<ellipse vector-effect="non-scaling-stroke" class="st6" cx="122" cy="150.5" rx="59" ry="32.7"/>
+		<path class="st7" d="M105.2,55.6c5.3-1.4,11.2-2.2,17.5-2.2c6.3,0,12.2,0.8,17.5,2.2h23.2v19.8h0c0,0.2,0,0.4,0,0.5
+			c0,12.4-18.3,22.6-40.7,22.6C100.2,98.5,82,88.4,82,75.9c0-0.2,0-0.4,0-0.5h0V55.6H105.2L105.2,55.6z"/>
+		<ellipse vector-effect="non-scaling-stroke" class="st8" cx="122.7" cy="55" rx="40.7" ry="22.5"/>
+		<path class="st9" d="M120.3,48.9c0.3,0.1,0.2,0.4-0.1,0.5L107,56c-0.3,0.2-0.8,0.2-1,0l-3.6-1.8c-0.3-0.1-0.2-0.4,0.1-0.5
+			l13.1-6.6c0.3-0.2,0.8-0.2,1,0C116.7,47.1,120.3,48.9,120.3,48.9z M132.2,50.6c0.3,0.1,0.2,0.4-0.1,0.5l-17.4,8.7
+			c-0.3,0.2-0.8,0.2-1,0L110,58c-0.3-0.1-0.2-0.4,0.1-0.5l17.4-8.7c0.3-0.2,0.8-0.2,1,0L132.2,50.6z M145.6,51.5
+			c0.3,0.1,0.2,0.4-0.1,0.5l-23.2,11.6c-0.3,0.2-0.8,0.2-1,0l-3.6-1.8c-0.3-0.1-0.2-0.4,0.1-0.5L141,49.7c0.3-0.2,0.8-0.2,1,0
+			L145.6,51.5z"/>
+		<circle vector-effect="non-scaling-stroke" class="st10" cx="121.5" cy="234" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st10" cx="121.5" cy="296" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st10" cx="121.5" cy="358" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st10" cx="121.5" cy="246" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st10" cx="121.5" cy="308" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st11" cx="121.5" cy="370" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st10" cx="121.5" cy="258" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st11" cx="121.5" cy="320" r="3.3"/>
+		<circle vector-effect="non-scaling-stroke" class="st10" cx="121.5" cy="382" r="3.3"/>
+		
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-126.0332" y1="468.7861" x2="-126.0332" y2="467.7961" gradientTransform="matrix(119.969 0 0 -152.01 15242.0684 71261.9688)">
+			<stop  offset="0" style="stop-color:#BD48F4;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#BD48F4;stop-opacity:0.66"/>
+		</linearGradient>
+		<path class="st12" d="M62,0.3h120v152H62V0.3z"/>
+	</g>
+</g>
+</svg>
